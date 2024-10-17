@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @juliavdias
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-juliavdias/juliavdias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- tenho 15 anos
+- nasci dia 30/06/2009
+- estou no 1 ano do ensino médio
+- gosto de dançar
+- minha cor favorita é roxo
+- tenho 1 gato e 2 cachorro
+- não tenho pai
+- gsoto de comer
+- minha comida favorita é hamburguer
