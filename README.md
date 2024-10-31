@@ -6,5 +6,5 @@
 - minha cor favorita é roxo
 - tenho 1 gato e 2 cachorro
 - não tenho pai
-- gsoto de comer
+- gosto de comer
 - minha comida favorita é hamburguer
